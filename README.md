@@ -1,5 +1,3 @@
-# Python-Tasks
-Python scripts for basic tasks
 # Python Tasks
 
 ## Overview
